@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3a3a3"/><stop offset="1" stop-color="#171717"/></linearGradient>
+<pattern id="p" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.5" fill="#fff" fill-opacity=".10"/></pattern></defs>
+<rect width="1280" height="400" fill="url(#g)"/><rect width="1280" height="400" fill="url(#p)"/>
+<circle cx="1130" cy="90" r="190" fill="#fff" fill-opacity=".06"/><circle cx="1210" cy="330" r="120" fill="#fff" fill-opacity=".05"/>
+<text x="64" y="132" font-size="64" font-weight="700" fill="#fff" font-family="Segoe UI,Arial">EDA Robot Dog</text>
+<text x="64" y="186" font-size="26" fill="#fff" fill-opacity=".92" font-family="Segoe UI,Arial">ESP8266 desk robot dog controlled over Wi-Fi</text>
+<text x="1216" y="246" font-size="26" fill="#fff" fill-opacity=".92" text-anchor="end" direction="rtl" font-family="Vazirmatn,Tahoma,Segoe UI">سگ‌ربات رومیزی با ESP8266، کنترل از گوشی</text>
+<rect x="64" y="300" rx="17" width="92" height="34" fill="#ffffff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/><text x="110.0" y="323" text-anchor="middle" font-size="16" fill="#fff" font-family="Segoe UI,Arial">ESP8266</text><rect x="168" y="300" rx="17" width="62" height="34" fill="#ffffff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/><text x="199.0" y="323" text-anchor="middle" font-size="16" fill="#fff" font-family="Segoe UI,Arial">OLED</text><rect x="242" y="300" rx="17" width="62" height="34" fill="#ffffff" fill-opacity=".14" stroke="#fff" stroke-opacity=".35"/><text x="273.0" y="323" text-anchor="middle" font-size="16" fill="#fff" font-family="Segoe UI,Arial">SG90</text>
+<text x="1216" y="372" font-size="16" fill="#fff" fill-opacity=".7" text-anchor="end" font-family="Segoe UI,Arial">mahsen81.ir</text>
+</svg>
